@@ -1,7 +1,7 @@
 # Author: Lewis Johnson
 # Program: Prog Assign_5 - Functions
 # Date: oct, 10, 2026
-#  github link
+#  https://github.com/lewisjohnson229/Prog-Assign_5---Functions-/blob/main/Prog%20Assign_5%20-%20Functions.py
 
 # Function that calculates the total monthly automobile cost
 def calculate_monthly_cost(loan, insurance, gas, oil, tires, maintenance):
